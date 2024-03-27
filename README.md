@@ -6,8 +6,4 @@ Some change
 
 Oh it's got as far as saying no changes detected
 
-fdfsdfsdfs
-
-fdfsdfdsfsdfs
-
-fdfsdfsdf fdsfs
+Definite new changes
