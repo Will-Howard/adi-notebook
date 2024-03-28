@@ -1,3 +1,3 @@
-#*  filter=crypt diff=crypt merge=crypt
-README.md -filter -diff -merge
-.gitattributes -filter -diff -merge
+* filter=crypt diff=crypt merge=crypt
+README.md -filter -merge
+.gitattributes -filter -merge
