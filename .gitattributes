@@ -1,3 +1,3 @@
-U2FsdGVkX18nKDnI8vwip4NoObkGsZqnuaMHUHf7WQw/sdBwDk7e1cGXdHA5RHvh
-A4vIrcqNkm8Ecn7MS76dL++GA812Mso9Gx9B7Q1MDX1eT+Cai4JpCfqpDIIkQ820
-ZBGjU9sqU7k3NNeIHSZgtQ==
+#* filter=crypt diff=crypt merge=crypt
+#:(exclude)README.md
+#:(exclude).gitattributes
